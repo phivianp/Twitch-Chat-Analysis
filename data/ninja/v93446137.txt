@@ -1,0 +1,11 @@
+93446137, ninja, H1Z1: King of the Kill, 32
+2.465, danDerp, [{'text': 'danDerp', 'emoticon': {'emoticon_id': '115259', 'emoticon_set_id': ''}}]
+3.411, @Germ_turkey @tamiforged117 yes, [{'text': '@Germ_turkey @tamiforged117 yes'}]
+8.688, no, [{'text': 'no'}]
+10.316, lol, [{'text': 'lol'}]
+10.645, that nade lag, [{'text': 'that nade lag'}]
+15.328, @itz_bullz_i no, [{'text': '@itz_bullz_i no'}]
+19.383, wait. stellur on eg and victory on naded's team???, [{'text': "wait. stellur on eg and victory on naded's team???"}]
+23.312, yes, [{'text': 'yes'}]
+29.651, damn victory gone eh :(, [{'text': 'damn victory gone eh '}, {'text': ':(', 'emoticon': {'emoticon_id': '2', 'emoticon_set_id': ''}}]
+31.291, That's what it's looking like @psy_lent, [{'text': "That's what it's looking like @psy_lent"}]
