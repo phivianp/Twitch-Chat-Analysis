@@ -1,1 +1,2 @@
 # Twitch-Chat-Analysis
+In this Capstone, we collected and analyzed communication patterns in Twitch chats for hundreds of streamers and games. Twitch’s massive chat streams present large-scale data and examples of various types and categories of conversational speech. Our analysis has produced results giving insight into how our culture deals with issues such as cyberbullying and inappropriate language.
